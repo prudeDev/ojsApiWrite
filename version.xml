@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/issueApiWrite/version.xml
+  *
+  * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+  *
+  * Plugin version information.
+  -->
+<version>
+	<application>issueApiWrite</application>
+	<type>plugins.generic</type>
+	<release>1.1.1.0</release>
+	<date>2026-10-05</date>
+	<lazy-load>0</lazy-load>
+	<class>IssueApiWritePlugin</class>
+</version>

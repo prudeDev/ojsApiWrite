@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-07T00:00:00+00:00\n"
+"PO-Revision-Date: 2026-07-07T00:00:00+00:00\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "plugins.generic.issueApiWrite.displayName"
+msgstr "Issues API"
+
+msgid "plugins.generic.issueApiWrite.description"
+msgstr "Añade endpoints POST/PUT/DELETE a la API REST de números (issues) para uso como backend."
+
+msgid "plugins.generic.issueApiWrite.orcid.invalid"
+msgstr "El ORCID iD no tiene un formato válido (ej. 0000-0002-1825-0097)."
+
+msgid "plugins.generic.issueApiWrite.orcid.fetchFailed"
+msgstr "No se pudo obtener el perfil público de ORCID. Verifica el ORCID iD y la conexión."
+
+msgid "plugins.generic.issueApiWrite.doi.invalid"
+msgstr "El DOI no tiene un formato válido (debe empezar con 10.xxxx/, ej. 10.1234/abc.2026.1)."
+
+msgid "plugins.generic.issueApiWrite.doi.duplicate"
+msgstr "Ese DOI ya está asignado a otro objeto de esta revista."
